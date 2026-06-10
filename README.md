@@ -2,11 +2,11 @@
 
 # Balsamiq Sans Neue
 
-This is a modified version of [Balsamiq Sans](https://github.com/balsamiq/balsamiqsans). I like the hand-drawn style of the font, but it was hard to use it next to normal fonts. So I changed its size, width and weight to make it behave like a normal text font.
+This is a modified version of [Balsamiq Sans](https://fonts.google.com/specimen/Balsamiq+Sans). I like the hand-drawn style of the font, but it was hard to use it next to normal fonts. So I changed its size, width and weight to make it behave like a normal text font.
 
 ## Why
 
-Balsamiq Sans was made for wireframes and headlines. When you use it for normal text or UI, there are some problems:
+Balsamiq Sans was made for [wireframes and headlines](https://balsamiq.com/). When you use it for normal text or UI, there are some problems:
 
 - The letters are too big for the font size. At the same font size, it looks much bigger than other fonts
 - The letters and spacing are too wide, around 10% wider than normal text fonts
